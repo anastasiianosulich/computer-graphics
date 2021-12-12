@@ -1,0 +1,17 @@
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\bin\Debug\mandelbrot_set.exe.config
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\bin\Debug\mandelbrot_set.exe
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\bin\Debug\mandelbrot_set.pdb
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.Properties.Resources.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.csproj.GenerateResource.cache
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.csproj.CoreCompileInputs.cache
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.exe
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.pdb
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.FractalWindow.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\bin\Debug\PresentationFramework.dll
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.AffineTransformation.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\ColorModels.ColorModelsForm.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.MainWindow.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.csproj.AssemblyReference.cache
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\bin\Debug\Guna.UI2.dll
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.Gallery.resources
+C:\Users\lichn\source\repos\mandelbrot_set\mandelbrot_set\obj\Debug\mandelbrot_set.InfoForm.resources
